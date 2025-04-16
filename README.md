@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a passionate developer currently working on RDBMS Queries Viewer, a tool to simplify learning SQL for beginners and professionals alike.<br>I’m diving deep into Containerization to enhance my deployment skills.<br>Ask me about Software Development<br>Fun fact is I once debugged a critical issue while on a hiking trip—coding and nature are my perfect combo!
+I’m an enthusiastic developer currently building a robust WiFi-Billing System, streamlining connectivity and payment solutions.<br>I’m diving deep into Containerization to enhance my deployment skills.<br>Ask me about Software Development<br>Fun fact is I once debugged a critical issue while on a hiking trip—coding and nature are my perfect combo!
 
 
 ## 🌐 Socials:
