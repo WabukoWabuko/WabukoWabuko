@@ -1,14 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0FF704&random=false&width=435&lines=Hello+%F0%9F%91%8B+Folks;Thanks+for+visiting+here;WabukoWabuko+is+a+Software+Dev;Got+enthusiasm+in;Coding+and+Programming;---Debugging+and+Developing;---Inventing+and+Innovating;---Debugging+errors)](https://git.io/typing-svg)
 
 # 💫 About Me:
-<h3 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #222; line-height: 1.6; background: #f5f5f5; padding: 20px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
-  I’m an enthusiastic <strong style="color: #007acc;">Computer Scientist</strong> currently working on being a 
-  <strong style="color: #28a745;">competent Developer</strong><br>
-  I’m diving deep into <strong style="color: #ff9800;">Containerization</strong> to enhance my deployment skills, and 
-  most importantly <strong style="color: #e91e63;">AI</strong><br>
-  Ask me about <strong style="color: #6a1b9a;">Software Development</strong><br>
-  <em style="color: #555;">Fun fact:</em> I once debugged a critical issue while on a hiking trip—coding and nature are my perfect combo!
-</h3>
+- 💻 I’m currently working on becoming a **competent Developer**
+
+- 📦 I’m diving deep into **Containerization** to level up my deployment game
+
+- 🧠 I’m preparing to get into **AI** — it’s the future
+
+- 💬 Ask me about **Software Development**
+
+- 🌄 Fun fact: I once debugged a critical issue while on a hiking trip — coding + nature = perfect combo
 
 
 ## 🌐 Socials:
