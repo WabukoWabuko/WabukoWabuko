@@ -1,10 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0FF704&random=false&width=435&lines=Hello+%F0%9F%91%8B+Folks;Thanks+for+visiting+here;WabukoWabuko+is+a+Software+Dev;Got+enthusiasm+in;Coding+and+Programming;---Debugging+and+Developing;---Inventing+and+Innovating;---Debugging+errors)](https://git.io/typing-svg)
 
 # 💫 About Me:
-<h3>
-  I’m an enthusiastic <strong>Computer Scientist</strong> currently working on being a <strong>competent Developer</strong><br>I’m diving deep into <strong>Containerization</strong> to enhance my deployment skills, and 
-  most importantly <strong>AI</strong><br>Ask me about <strong>Software Development</strong><br>Fun fact is I once debugged a critical issue while on a hiking trip—coding and nature are my perfect combo!
+<h3 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #222; line-height: 1.6; background: #f5f5f5; padding: 20px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+  I’m an enthusiastic <strong style="color: #007acc;">Computer Scientist</strong> currently working on being a 
+  <strong style="color: #28a745;">competent Developer</strong><br>
+  I’m diving deep into <strong style="color: #ff9800;">Containerization</strong> to enhance my deployment skills, and 
+  most importantly <strong style="color: #e91e63;">AI</strong><br>
+  Ask me about <strong style="color: #6a1b9a;">Software Development</strong><br>
+  <em style="color: #555;">Fun fact:</em> I once debugged a critical issue while on a hiking trip—coding and nature are my perfect combo!
 </h3>
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/WabukoWabuko) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/WabukoWabuko) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/WabukoWabuko) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/WabukoWabuko) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/WabukoWabuko) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/WabukoWabuko) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@WabukoWabuko) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/WabukoWabuko) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:basilwabbs@gmail.com) 
