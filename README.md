@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Software Development**
 
-- 🌄 Fun fact: I once debugged a critical issue while on a hiking trip — coding + nature = perfect combo
+- 🕶️ Fun fact: I pushed to production on a Friday and **it actually went smoothly** — living life on the edge 😂🤣💀😭😂💀🤣.
 
 
 ## 🌐 Socials:
