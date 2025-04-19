@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0FF704&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Wabuko+Wabuko;I+love+coding;Debugging+errors)](https://git.io/typing-svg)
+
 # 💫 About Me:
 I’m an enthusiastic developer currently building a robust WiFi-Billing System, streamlining connectivity and payment solutions.<br>I’m diving deep into Containerization to enhance my deployment skills.<br>Ask me about Software Development<br>Fun fact is I once debugged a critical issue while on a hiking trip—coding and nature are my perfect combo!
 
