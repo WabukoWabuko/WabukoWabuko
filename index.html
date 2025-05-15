@@ -43,7 +43,7 @@
       transition: background 0.3s;
     }
     a.button:hover { background-color: #00e69d; }
-    .abilities, .extras {
+    .abilities, .extras, .about {
       margin-top: 3rem;
       max-width: 900px;
       background: #111;
@@ -51,7 +51,7 @@
       border-radius: 8px;
       box-shadow: 0 0 20px #00ffae33;
     }
-    .abilities h2, .extras h2, .team h2 {
+    .abilities h2, .extras h2, .team h2, .about h2 {
       color: #00ffae;
       font-size: 1.75rem;
       margin-bottom: 1rem;
@@ -84,6 +84,16 @@
       padding: 1rem;
       font-size: 0.9rem;
       border-radius: 5px;
+      position: relative;
+      overflow: hidden;
+    }
+    .terminal-box code::after {
+      content: '_';
+      animation: blink 1s infinite;
+    }
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
     }
     .slogan {
       font-size: 1rem;
@@ -103,6 +113,17 @@
   <p class="tagline">Digital Infrastructure for the 30th Century</p>
   <a href="https://wabuko-portfolio.vercel.app" class="button" target="_blank" rel="noopener">See The Dev Powerhouse</a>
 
+  <div class="about">
+    <h2>Who We Are</h2>
+    <p>
+      At CybNex Tech, we engineer systems that feel alien in power, yet human in touch. 
+      Our architecture is forged from decades of expertise in software engineering, 
+      bleeding-edge cybersecurity, and automation that feels like sorcery. We don't just build apps — 
+      we create digital fortresses, innovation labs, and seamless user experiences tailored for scale, security, and speed. 
+      We don’t follow trends — we build what others try to imitate.
+    </p>
+  </div>
+
   <div class="abilities">
     <h2>What We Do at CybNex Tech</h2>
     <ul>
@@ -114,38 +135,45 @@
       <li>Real-time Dashboards and Visual Reporting</li>
       <li>Tech Branding, UI/UX Prototyping</li>
       <li>DevOps and Performance Optimization</li>
+      <li>Red Team Simulations & Ethical Hacking (we play both sides)</li>
     </ul>
   </div>
 
   <div class="extras">
     <h2>Why Choose CybNex</h2>
     <ul>
-      <li>Military-grade encryption standards</li>
-      <li>Zero-trust and AI-ready environments</li>
-      <li>Scalable for startups, bulletproof for enterprises</li>
-      <li>Built by hackers, hardened for businesses</li>
-      <li>100% custom code — no fluff</li>
+      <li>Military-grade encryption baked into every deployment</li>
+      <li>Zero-trust, AI-prepped, and future-proof by default</li>
+      <li>Hardened for startups, ready for enterprise warzones</li>
+      <li>We build from scratch — no templates, no nonsense</li>
+      <li>Run by people who code in their sleep (literally)</li>
     </ul>
   </div>
 
   <div class="team">
     <h2>Meet The Core Team</h2>
     <div class="team-member">
-      <strong>WabukoWabuko</strong> — Founder & Backend Architect. The Django mastermind. Logic is his canvas.
+      <strong>WabukoWabuko</strong> — Founder & Backend Architect. Django is his katana; logic his battleground.
     </div>
     <div class="team-member">
-      <strong>Phadop (PHADOP Inc.)</strong> — Frontend Wizard & Systems Integrator. Designs that hook users instantly.
+      <strong>Phadop (PHADOP Inc.)</strong> — Frontend Wizard & Systems Integrator. His UI work? It's legal hypnosis.
     </div>
   </div>
 
   <div class="terminal-box">
     <code>
-      &gt; root@cybnex:/usr/bin$ whoami<br>
-      CybNex Tech — Code. Shield. Deliver.<br><br>
-      &gt; root@cybnex:/usr/bin$ cat /services/core.txt<br>
-      Web Dev | Cybersecurity | Automation | Infra-as-Code | Branding<br><br>
-      &gt; root@cybnex:/usr/bin$ launch --task "Innovate with us"<br>
-      STATUS: Operation Initialized.
+&gt; root@cybnex:/usr/bin$ whoami<br>
+CybNex Tech — Code. Shield. Deliver.<br><br>
+&gt; root@cybnex:/usr/bin$ cat /services/core.txt<br>
+Web Dev | Cybersecurity | Automation | Infra-as-Code | Branding<br><br>
+&gt; root@cybnex:/usr/bin$ hack --simulate<br>
+INITIATING SYSTEM BREACH...<br>
+Bypassing firewall █ █ █ █ █ █ █ █ █ █ █ █ █ █ █<br>
+Injecting packet overflow...<br>
+<span style="color:#f55">⚠ ALERT: Your coffee machine has joined the blockchain ☕</span><br>
+Rebooting fridge... Success. Awaiting snack authorization.<br><br>
+&gt; root@cybnex:/usr/bin$ launch --task "Innovate with us"<br>
+STATUS: Operation Initialized. 🚀
     </code>
   </div>
 
